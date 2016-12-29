@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?6rrwg1');
+  src:  url('../fonts/icomoon.eot?6rrwg1#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?6rrwg1') format('truetype'),
+    url('../fonts/icomoon.woff?6rrwg1') format('woff'),
+    url('../fonts/icomoon.svg?6rrwg1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fb .path1:before {
+  content: "\e922";
+  color: rgb(81, 124, 190);
+}
+.icon-fb .path2:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-g+ .path1:before {
+  content: "\e924";
+  color: rgb(78, 78, 84);
+}
+.icon-g+ .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-g+ .path3:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-insta .path1:before {
+  content: "\e927";
+  color: rgb(200, 197, 179);
+}
+.icon-insta .path2:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-tt .path1:before {
+  content: "\e929";
+  color: rgb(101, 204, 239);
+}
+.icon-tt .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-enter:before {
+  content: "\e908";
+}
+.icon-facebook:before {
+  content: "\e916";
+}
+.icon-insta2:before {
+  content: "\e917";
+}
+.icon-mastercard:before {
+  content: "\e918";
+}
+.icon-paypal:before {
+  content: "\e91f";
+}
+.icon-twitter:before {
+  content: "\e920";
+}
+.icon-visa:before {
+  content: "\e921";
+}
+.icon-cancel:before {
+  content: "\e900";
+}
+.icon-cart:before {
+  content: "\e901";
+}
+.icon-cc-mastercard:before {
+  content: "\e902";
+}
+.icon-cc-paypal:before {
+  content: "\e903";
+}
+.icon-cc-visa:before {
+  content: "\e904";
+}
+.icon-chain-broken:before {
+  content: "\e905";
+}
+.icon-clock:before {
+  content: "\e906";
+}
+.icon-document-add:before {
+  content: "\e907";
+}
+.icon-eye2:before {
+  content: "\e909";
+}
+.icon-likes:before {
+  content: "\e90a";
+}
+.icon-magic:before {
+  content: "\e90b";
+}
+.icon-map:before {
+  content: "\e90c";
+}
+.icon-minus:before {
+  content: "\e90d";
+}
+.icon-plus:before {
+  content: "\e90e";
+}
+.icon-quill:before {
+  content: "\e90f";
+}
+.icon-settings:before {
+  content: "\e910";
+}
+.icon-sponsor:before {
+  content: "\e911";
+}
+.icon-trash:before {
+  content: "\e912";
+}
+.icon-upload:before {
+  content: "\e913";
+}
+.icon-user:before {
+  content: "\e914";
+}
+.icon-user_loc:before {
+  content: "\e915";
+}
+.icon-arrow-right:before {
+  content: "\e919";
+}
+.icon-arrow-left:before {
+  content: "\e91a";
+}
+

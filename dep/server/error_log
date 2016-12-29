@@ -1,0 +1,401 @@
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 01:59:55 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:16 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 03:34:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 120
+[13-Oct-2016 03:34:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:35 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:35 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:35 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:37 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:37 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:37 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:42 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:42 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:42 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:45 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:45 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:45 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:47 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:47 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:47 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:49 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:49 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:49 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:52 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:52 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:52 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:54 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:54 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:54 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:34:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:34:55 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:34:55 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:34:55 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:35:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:35:00 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:35:00 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:35:00 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 03:35:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 03:35:04 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 03:35:04 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 03:35:04 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 04:30:35 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[13-Oct-2016 10:56:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 10:56:20 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 10:56:20 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 10:56:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 10:56:32 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 10:56:32 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:00:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:00:57 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:00:57 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:01:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:01:16 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:01:16 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:01:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:01:38 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:01:38 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:03:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:03:44 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:03:44 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:03:44 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 11:03:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:03:46 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:03:46 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:03:46 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 11:03:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:03:53 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:03:53 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:03:53 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 11:03:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:03:54 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:03:54 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[13-Oct-2016 11:03:54 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[13-Oct-2016 11:32:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[13-Oct-2016 11:32:27 America/New_York] PHP Notice:  Undefined index: user in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 11
+[13-Oct-2016 11:32:27 America/New_York] PHP Notice:  Use of undefined constant len - assumed 'len' in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 84
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[14-Oct-2016 06:04:10 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:07 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:22:21 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:22:21 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:24:08 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:11 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:14 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined index: cats in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 18
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: wstr in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Deprecated:  Function split() is deprecated in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 105
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[15-Oct-2016 02:24:22 America/New_York] PHP Notice:  Undefined variable: iS in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 348
+[18-Oct-2016 23:14:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[18-Oct-2016 23:14:01 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[18-Oct-2016 23:14:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[18-Oct-2016 23:14:04 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[18-Oct-2016 23:14:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[18-Oct-2016 23:14:07 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[18-Oct-2016 23:14:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[18-Oct-2016 23:14:10 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
+[18-Oct-2016 23:14:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/naijimtp/public_html/kunsana.com/dep/server/functions.php on line 2
+[18-Oct-2016 23:14:13 America/New_York] PHP Notice:  Undefined variable: wd in /home/naijimtp/public_html/kunsana.com/dep/server/t.php on line 64
